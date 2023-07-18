@@ -21,6 +21,7 @@ public class testController {
 		System.out.println(t);
 		System.out.println(1);
 		System.out.println("分支");
+		System.out.println("分支合并");
 		return t;
 	}
 }
