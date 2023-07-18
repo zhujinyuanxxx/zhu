@@ -22,6 +22,7 @@ public class testController {
 		System.out.println(1);
 		System.out.println("分支");
 		System.out.println("分支合并");
+		System.out.println("上傳測試");
 		return t;
 	}
 }
