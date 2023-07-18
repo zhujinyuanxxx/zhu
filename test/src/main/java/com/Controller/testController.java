@@ -20,6 +20,7 @@ public class testController {
 		t.setB(2);
 		System.out.println(t);
 		System.out.println(1);
+		System.out.println("分支");
 		return t;
 	}
 }
