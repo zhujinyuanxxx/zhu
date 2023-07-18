@@ -19,6 +19,7 @@ public class testController {
 		t.setA(1);
 		t.setB(2);
 		System.out.println(t);
+		System.out.println(1);
 		return t;
 	}
 }
