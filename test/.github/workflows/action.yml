@@ -4,9 +4,9 @@ jobs:
   job1:
     runs-on: ubuntu-latest
     steps:
-      - run: pwd
-      - run: ls
+    - run: pwd
+    - run: ls
   jobs2:
     runs-on: windows-latest
     steps:
-      - run : docker -v
+    - run : docker -v
